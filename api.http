@@ -5,3 +5,7 @@ Content-Type: application/json
     "name": "Gabriel Vinicius Strapasson",
     "email": "gabri.vstrapasson@gmail.com.br"
 }
+
+###
+
+GET http://localhost:3333/invites/gabriel123
