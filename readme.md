@@ -1,26 +1,19 @@
-# Projeto NLW 19 - Gerenciamento de Convites e Rankings
+# Project NLW 10 -  Invitation and Raking Management
+##This Project was developed during the 19th edition of Next Level Week (NLW) promoted by Rocketseat, NodeJS, track the objective is to create a backend application for managing, invitations and user rankings, using modern Technologies and best development practices.
 
-Este projeto foi desenvolvido durante a 19ª edição do Next Level Week (NLW) promovido pela Rocketseat, trilha de NodeJS. O objetivo é criar uma aplicação backend para gerenciamento de convites e rankings de usuários, utilizando tecnologias modernas e práticas recomendadas de desenvolvimento.
+## About the project
 
-## Índice
+##The Project consists of a RESTFul API developed with NodeJS and TypeScript, Which allow:
+-**Invitatuion Management**: Creation and sending of invitations for new users  to join the plataforma.
+-**User Ranking**: Display of na updated ranking of users with me highest number of invitations.
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+## Technologies used
 
-## Sobre o Projeto
+The main Technologies and tool used in the development of ths Project are:
 
-O projeto consiste em uma API RESTful desenvolvida com Node.js e TypeScript, que permite:
-
-- **Gerenciamento de Convites**: Criação e envio de convites para novos usuários participarem da plataforma.
-- **Ranking de Usuários**: Exibição de um ranking atualizado dos usuários com maior número de convites.
-
-## Tecnologias Utilizadas
-
-As principais tecnologias e ferramentas utilizadas no desenvolvimento deste projeto são:
-
-- **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
-- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional.
-- **Redis**: Armazenamento em cache e gerenciamento de filas.
-- **Drizzle ORM**: ORM (Object-Relational Mapping) para interação com o banco de dados.
-- **Docker**: Plataforma para criação e gerenciamento de contêineres.
+- **Node.js**: Execution environment for Java Script on the server side.
+- **TypeScript**: JavaScript superste that adds static typing to the code.
+- **PostgreSQL**:Relational database management system.
+- **Redis**: Caching and queue management.
+- **Drizzle ORM**: ORM( Object-Relational Mapping) for interaction with the database.
+- **Docker**: Platform for creating and managing containers.
