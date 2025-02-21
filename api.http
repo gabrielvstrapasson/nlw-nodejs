@@ -2,10 +2,32 @@ POST http://localhost:3333/subscriptions
 Content-Type: application/json
 
 {
-    "name": "Gabriel Vinicius Strapasson",
-    "email": "gabri.vstrapasson@gmail.com.br"
+    "name": "Usuario Indicado3",
+    "email": "indicado3@gmail.com",
+    "referrer": "8e559fea-c638-4fd7-9fdc-94cf66e7a002"
 }
 
 ###
 
-GET http://localhost:3333/invites/gabriel123
+GET http://localhost:3333/invites/596745ef-6945-4e9d-a14a-857368c42bb4
+
+###
+
+GET http://localhost:3333/subscribers/596745ef-6945-4e9d-a14a-857368c42bb4/ranking/clicks
+
+
+###
+GET http://localhost:3333/subscribers/596745ef-6945-4e9d-a14a-857368c42bb4/ranking/count
+
+
+###
+
+GET http://localhost:3333/subscribers/596745ef-6945-4e9d-a14a-857368c42bb4/ranking/position
+
+
+###
+
+GET http://localhost:3333/ranking
+
+
+
