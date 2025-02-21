@@ -3,7 +3,7 @@ This Project was developed during the 19th edition of Next Level Week (NLW) prom
 
 ## About the project
 
-The Project consists of a RESTFul API developed with NodeJS and TypeScript, Which allow:
+The Project consists of a REST API developed with NodeJS and TypeScript, Which allow:
 -**Invitatuion Management**: Creation and sending of invitations for new users  to join the plataforma.
 -**User Ranking**: Display of na updated ranking of users with me highest number of invitations.
 
